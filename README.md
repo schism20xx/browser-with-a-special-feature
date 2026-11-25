@@ -155,3 +155,5 @@ QTWEBENGINEPROCESS_PATH="$HOME/noir/dist/noir/_internal/PyQt6/Qt6/libexec/QtWebE
 ```bash
 QTWEBENGINE_CHROMIUM_FLAGS="--disable-gpu" ./dist/noir/noir
 ```
+
+Unfortunately, this code was written by an AI, so it might contain bugs. \ эт крч квен писал а не клод поэтому хз
